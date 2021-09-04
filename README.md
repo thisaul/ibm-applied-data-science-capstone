@@ -7,3 +7,4 @@ Notebooks includes:
 - [Lab 2.1 Data Wrangling](Lab%202.1%20Data%20Wrangling.ipynb)
 - [Lab 2.2 Exploratory Data Analysis using SQL](Lab%202.2%20Exploratory%20Data%20Analysis%20using%20SQL.ipynb)
 - [Lab 2.3 EDA for Data Visualization](Lab%202.3%20EDA%20for%20Data%20Visualization.ipynb)
+- [Lab 2.4 Machine Learning Prediction](Lab%202.4%20Machine%20Learning%20Prediction.ipynb)
